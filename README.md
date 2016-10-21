@@ -1,9 +1,13 @@
 # Go-IT-Java-Core
 
 Домашнее задание №2.1
-Grade: N/A
+
+
 View Grade Information. Opens a dialogue
+
+
 Input: array with size = 10 can be of one of two data types: int and double. Calculate:
+
 
 sum 
 min/max
